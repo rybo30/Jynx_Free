@@ -8,6 +8,16 @@ IMPORTANT
 ----------------
 This repo doesn't contain the full GhostDrive/Jynx program. Please follow this link to download the Jynx zip folder:
 https://drive.google.com/file/d/1fYzyRzJWXbwjli5zBsLnGt9MNhav2SiF/view?usp=sharing
+
+Start_GhostDrive_Windows Shortcut might fail. Steps to fix:
+(1) Open Everything_else folder
+(2) Right Click "launch_jynx_3.bat" and click "Create Shortcut"
+(3) Move Shortcut into GhostDrive_Free folder and rename "Start_GhostDrive_Windows"
+
+If the virtual environment fails:
+(1) Open Terminal
+(2) Paste "Invoke-WebRequest -Uri "https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe" -OutFile "$env:TEMP\python.exe"; Start-Process "$env:TEMP\python.exe" -ArgumentList "/quiet InstallAllUsers=1 PrependPath=1 Include_test=0" -Wait"
+(3) Exit terminal once the download completes, then click "Start_GhostDrive_Windows"
 -----------------------------------------------------------
 
 PROJECT OVERVIEW
