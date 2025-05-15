@@ -1,10 +1,14 @@
 # Jynx_Free
 Offline, uncensored AI assistant built on TinyLlama, ready for USB deployment.
 
-
 ===========================================================
                  GHOSTDRIVE 2.0 - README & LICENSE
 ===========================================================
+IMPORTANT
+----------------
+This repo doesn't contain the full GhostDrive/Jynx program. Please follow this link to download the Jynx zip folder:
+https://drive.google.com/file/d/1fYzyRzJWXbwjli5zBsLnGt9MNhav2SiF/view?usp=sharing
+-----------------------------------------------------------
 
 PROJECT OVERVIEW
 ----------------
