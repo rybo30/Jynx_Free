@@ -14,11 +14,6 @@ Start_GhostDrive_Windows Shortcut might fail. Steps to fix:
 - Right Click "launch_jynx_3.bat" and click "Create Shortcut"
 - Move Shortcut into GhostDrive_Free folder and rename "Start_GhostDrive_Windows"
 
-If the virtual environment fails:
-- Open Terminal
-- Paste:  Invoke-WebRequest -Uri "https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe" -OutFile "$env:TEMP\python.exe"; Start-Process "$env:TEMP\python.exe" -ArgumentList "/quiet InstallAllUsers=1 PrependPath=1 Include_test=0" -Wait
-- Exit terminal once the download completes, then click "Start_GhostDrive_Windows"
-
 -----------------------------------------------------------
 
 PROJECT OVERVIEW
