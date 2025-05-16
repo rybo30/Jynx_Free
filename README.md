@@ -7,12 +7,7 @@ Offline, uncensored AI assistant built on TinyLlama, ready for USB deployment.
 IMPORTANT
 ---------
 This repo doesn't contain the full GhostDrive/Jynx program. Please follow this link to download the Jynx zip folder:
-https://drive.google.com/file/d/1fYzyRzJWXbwjli5zBsLnGt9MNhav2SiF/view?usp=sharing
 
-Start_GhostDrive_Windows Shortcut might fail. Steps to fix:
-- Open Everything_else folder
-- Right Click "launch_jynx_3.bat" and click "Create Shortcut"
-- Move Shortcut into GhostDrive_Free folder and rename "Start_GhostDrive_Windows"
 
 -----------------------------------------------------------
 
