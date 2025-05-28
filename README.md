@@ -7,7 +7,7 @@ Offline, uncensored AI assistant built on TinyLlama, ready for USB deployment.
 IMPORTANT
 ---------
 This repo doesn't contain the full GhostDrive/Jynx program. Please follow this link to download the Jynx zip folder:
-
+https://drive.google.com/file/d/1Y8qz_OY4pAtsG45FvkFi9tZ-PohUagGI/view?usp=sharing
 
 -----------------------------------------------------------
 
